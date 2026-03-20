@@ -17,3 +17,5 @@ Angela is an Assistant Professor in the Design, Data and Society Group. Her rese
 Michael is a PhD candidate at the Faculty of Architecture and the Built Environment at TU Delft, and a member of the Design, Data and Society Group. His research investigates data visualisation to bridge architectural design and post-occupancy data. 
 
 www.livingdatastudies.com
+
+
