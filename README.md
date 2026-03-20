@@ -11,9 +11,9 @@ With this mission in mind, we openly share [data] [code] [processes] and [output
 Current Contributers are:
 
 ## Angela Rout 
-is an Assistant Professor in the Design, Data and Society Group. Her research expands the possibilities for data in design: for architecture practice, and design education. She does this through critical reflection on the role of technology in human experience of built environments, and she designs analysis and visualisation methods to help architects apply data to environmental and social challenges. She has a PhD in Computational Media Design from the University of Calgary, and was a postdoctoral fellow at University of British Columbia in Urban Forestry. Angela was awarded the distinguished Delft Technology Fellowship for top academic scientist in 2023.
+Angela is an Assistant Professor in the Design, Data and Society Group. Her research expands the possibilities for data in design: for architecture practice, and design education. She does this through critical reflection on the role of technology in human experience of built environments, and she designs analysis and visualisation methods to help architects apply data to environmental and social challenges. She has a PhD in Computational Media Design from the University of Calgary, and was a postdoctoral fellow at University of British Columbia in Urban Forestry. Angela was awarded the distinguished Delft Technology Fellowship for top academic scientist in 2023.
 
 ## Michael Tjia
-is a PhD candidate at the Faculty of Architecture and the Built Environment at TU Delft, and a member of the Design, Data and Society Group. His research investigates data visualisation to bridge architectural design and post-occupancy data. 
+Michael is a PhD candidate at the Faculty of Architecture and the Built Environment at TU Delft, and a member of the Design, Data and Society Group. His research investigates data visualisation to bridge architectural design and post-occupancy data. 
 
 www.livingdatastudies.com
