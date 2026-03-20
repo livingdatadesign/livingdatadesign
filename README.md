@@ -2,7 +2,9 @@
 
 Living Data Studies is an academic project in the Department of Architecture at TU Delft. 
 
-Given the complexity of today’s ecological crisis, it is important to reinvent not only how and what we learn about nature, but also how we relate to non-human entities as  co-inhabitants of the planet. It is not enough to use our knowledge as a justification to control or manipulate nature to human will. We need to design in ways that create opportunities for mutual and shared existence.
+We believe, given the complexity of today’s ecological crisis, it is important to reinvent not only how and what we learn about nature, but also how we relate to non-human entities as  co-inhabitants of the planet. It is not enough to use our knowledge as a justification to control or manipulate nature to human will. We need to design in ways that create opportunities for mutual and shared existence.
+
+Living Data is not defined by its format, or by the fact that it is used by designers of the built environment. It can be a binary signal readable by computers, it can be metrics and recorded quantities in a table, it can be images and it can be text. Living Data is often collected by sensors or smartphones and describes the behavior and perspectives of living beings (humans, plants, organisms) in and around buildings. What makes it living is that it describes the living world. Designers must then relate to it with awareness of the ways that they relate to nature and the living elements of our planet.
 
 With this mission in mind, we openly share [data] [code] [processes] and [output] here. 
 
