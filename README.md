@@ -4,7 +4,7 @@ Living Data Studies is an academic project in the Department of Architecture at 
 
 Given the complexity of today’s ecological crisis, it is important to reinvent not only how and what we learn about nature, but also how we relate to non-human entities as  co-inhabitants of the planet. It is not enough to use our knowledge as a justification to control or manipulate nature to human will. We need to design in ways that create opportunities for mutual and shared existence.
 
-With this mission in mind, we openly share data, code, processes and output here. 
+With this mission in mind, we openly share [data] [code] [processes] and [output] here. 
 
 Current Contributers are:
 
@@ -13,3 +13,5 @@ Angela Rout is an Assistant Professor in the Design, Data and Society Group. Her
 
 ##Michael Tjia
 Michael Tjia is a PhD candidate at the Faculty of Architecture and the Built Environment at TU Delft, and a member of the Design, Data and Society Group. His research investigates data visualisation to bridge architectural design and post-occupancy data. 
+
+www.livingdatastudies.com
