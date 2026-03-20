@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello!
 
-<!--
-**livingdatadesign/livingdatadesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Living Data Studies is an academic project in the Department of Architecture at TU Delft. 
 
-Here are some ideas to get you started:
+Given the complexity of today’s ecological crisis, it is important to reinvent not only how and what we learn about nature, but also how we relate to non-human entities as  co-inhabitants of the planet. It is not enough to use our knowledge as a justification to control or manipulate nature to human will. We need to design in ways that create opportunities for mutual and shared existence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With this mission in mind, we openly share data, code, processes and output here. 
+
+Current Contributers are:
+
+##Angela Rout
+Angela Rout is an Assistant Professor in the Design, Data and Society Group. Her research expands the possibilities for data in design: for architecture practice, and design education. She does this through critical reflection on the role of technology in human experience of built environments, and she designs analysis and visualisation methods to help architects apply data to environmental and social challenges. She has a PhD in Computational Media Design from the University of Calgary, and was a postdoctoral fellow at University of British Columbia in Urban Forestry. Angela was awarded the distinguished Delft Technology Fellowship for top academic scientist in 2023.
+
+##Michael Tjia
+Michael Tjia is a PhD candidate at the Faculty of Architecture and the Built Environment at TU Delft, and a member of the Design, Data and Society Group. His research investigates data visualisation to bridge architectural design and post-occupancy data. 
